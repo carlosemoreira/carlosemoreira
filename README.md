@@ -14,15 +14,15 @@ Transformo riscos de software em controles automatizados, evidências claras e d
 ## 🛠️ Tecnologias dos laboratórios
 
 <p>
-<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="32">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" height="32">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" height="32">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" height="32">
+<a href="https://playwright.dev/"><img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="32"></a>
+<a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" height="32"></a>
+<a href="https://nodejs.org/"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" height="32"></a>
+<a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" height="32"></a>
 <br>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" height="32">
-<img alt="k6" src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&amp;logo=k6&amp;logoColor=white" height="32">
-<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" height="32">
-<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="32">
+<a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" height="32"></a>
+<a href="https://grafana.com/docs/k6/latest/"><img alt="k6" src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&amp;logo=k6&amp;logoColor=white" height="32"></a>
+<a href="https://opentelemetry.io/"><img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" height="32"></a>
+<a href="https://docs.github.com/en/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="32"></a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ Jornadas Web e API, segurança, performance e critérios determinísticos de apr
 Contratos, concorrência, resiliência e observabilidade em um laboratório pessoal e não oficial, com scorecard executivo para explorar.
 
 <p>
-<a href="https://github.com/carlosesmoreira07/totvs-cloud-qe-lab/blob/main/evidence/scorecard/executive-scorecard.pdf"><img alt="Scorecard PDF" src="https://img.shields.io/badge/Scorecard%20PDF-7C3AED?style=for-the-badge" height="32"></a>
+<a href="https://github.com/carlosesmoreira07/totvs-cloud-qe-lab/blob/master/evidence/scorecard/executive-scorecard.pdf"><img alt="Scorecard PDF" src="https://img.shields.io/badge/Scorecard%20PDF-7C3AED?style=for-the-badge" height="32"></a>
 <a href="https://github.com/carlosesmoreira07/totvs-cloud-qe-lab"><img alt="Código" src="https://img.shields.io/badge/C%C3%B3digo-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32"></a>
 </p>
 
