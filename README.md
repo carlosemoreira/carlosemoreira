@@ -1,6 +1,6 @@
-# Olá, sou Carlos Moreira 👋
+# Olá, eu sou o Cadu! 👋
 
-**Engenharia da Qualidade | Estratégia de Risco | Cloud**
+**Engenheiro de Qualidade | Estratégista de Risco | Focado em Cloud**
 
 Transformo riscos de software em controles automatizados, evidências claras e decisões de entrega. Conecto estratégia de qualidade, desenvolvimento, segurança e observabilidade.
 
