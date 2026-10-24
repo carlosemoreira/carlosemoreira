@@ -1,33 +1,70 @@
 # Olá, eu sou o Cadu! 👋
 
-**Engenheiro de Qualidade | Estratégista de Risco | Focado em Cloud**
+## Engenheiro de Qualidade | Estratégista de Risco | Focado em Cloud
 
 Transformo riscos de software em controles automatizados, evidências claras e decisões de entrega. Conecto estratégia de qualidade, desenvolvimento, segurança e observabilidade.
 
-🔗 **[LinkedIn](https://www.linkedin.com/in/carlos-moreira-qa-lead/)** · **[Moreira Tech](https://moreira-tech.com)** · **[Central de Evidências](https://carlosesmoreira07.github.io/quality-engineering-lab/)**
+<p>
+<a href="https://www.linkedin.com/in/carlos-moreira-qa-lead/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" height="32"></a>
+<a href="https://moreira-tech.com"><img alt="Moreira Tech" src="https://img.shields.io/badge/Moreira%20Tech-182D45?style=for-the-badge" height="32"></a>
+</p>
 
 ---
 
-### 🛠️ Tecnologias dos laboratórios
+## 🛠️ Tecnologias dos laboratórios
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+<img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge" height="32">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" height="32">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" height="32">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" height="32">
+<br>
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" height="32">
+<img alt="k6" src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&amp;logo=k6&amp;logoColor=white" height="32">
+<img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&amp;logo=opentelemetry&amp;logoColor=white" height="32">
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" height="32">
+</p>
 
 ---
 
-### 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
-**[Quality Engineering Lab](https://github.com/carlosesmoreira07/quality-engineering-lab)**  
-Qualidade ao longo do ciclo de desenvolvimento: jornadas Web e API, segurança, performance e critérios determinísticos de aprovação.
+### 01 · Quality Engineering Lab
 
-📊 **[Explore a Central de Evidências](https://carlosesmoreira07.github.io/quality-engineering-lab/)** · [Relatório executivo em PDF](https://carlosesmoreira07.github.io/quality-engineering-lab/quality-report-latest.pdf)
+**Qualidade de ponta a ponta no ciclo de desenvolvimento.**
 
-**[Cloud QE Lab](https://github.com/carlosesmoreira07/totvs-cloud-qe-lab)**  
-Laboratório pessoal e não oficial de qualidade para sistemas distribuídos: contratos, concorrência, resiliência e observabilidade.
+Jornadas Web e API, segurança, performance e critérios determinísticos de aprovação, com resultados apresentados em uma central de evidências.
 
-📄 **[Veja o scorecard executivo em PDF](https://github.com/carlosesmoreira07/totvs-cloud-qe-lab/blob/main/evidence/scorecard/executive-scorecard.pdf)**
+<p>
+<a href="https://carlosesmoreira07.github.io/quality-engineering-lab/"><img alt="Central de Evidências" src="https://img.shields.io/badge/Central%20de%20Evid%C3%AAncias-2563EB?style=for-the-badge" height="32"></a>
+<a href="https://carlosesmoreira07.github.io/quality-engineering-lab/quality-report-latest.pdf"><img alt="Relatório PDF" src="https://img.shields.io/badge/Relat%C3%B3rio%20PDF-425CC7?style=for-the-badge" height="32"></a>
+<a href="https://github.com/carlosesmoreira07/quality-engineering-lab"><img alt="Código" src="https://img.shields.io/badge/C%C3%B3digo-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32"></a>
+</p>
 
-**[Moreira Tech](https://moreira-tech.com)**  
-Estratégia de qualidade e engenharia orientadas a riscos, com projetos e evidências para explorar.
+---
 
-🌐 **[Visite o site](https://moreira-tech.com)** · [Repositório](https://github.com/carlosesmoreira07/moreira-tech-site)
+### 02 · Cloud QE Lab
+
+**Engenharia da Qualidade para sistemas distribuídos.**
+
+Contratos, concorrência, resiliência e observabilidade em um laboratório pessoal e não oficial, com scorecard executivo para explorar.
+
+<p>
+<a href="https://github.com/carlosesmoreira07/totvs-cloud-qe-lab/blob/main/evidence/scorecard/executive-scorecard.pdf"><img alt="Scorecard PDF" src="https://img.shields.io/badge/Scorecard%20PDF-7C3AED?style=for-the-badge" height="32"></a>
+<a href="https://github.com/carlosesmoreira07/totvs-cloud-qe-lab"><img alt="Código" src="https://img.shields.io/badge/C%C3%B3digo-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32"></a>
+</p>
+
+---
+
+### 03 · Moreira Tech
+
+**Estratégia de qualidade orientada a riscos.**
+
+Conheça a apresentação profissional, os projetos e as evidências reunidos no site da Moreira Tech.
+
+<p>
+<a href="https://moreira-tech.com"><img alt="Visitar o site" src="https://img.shields.io/badge/Visitar%20o%20site-0F766E?style=for-the-badge" height="32"></a>
+<a href="https://github.com/carlosesmoreira07/moreira-tech-site"><img alt="Código" src="https://img.shields.io/badge/C%C3%B3digo-30363D?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="32"></a>
+</p>
+
+---
